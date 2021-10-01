@@ -1,4 +1,4 @@
-console.log("hello world")
+// console.log("hello world")
 
 fetch('https://9qrzvh.deta.dev/')
   .then((response) => {
